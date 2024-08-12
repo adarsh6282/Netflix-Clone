@@ -106,6 +106,7 @@ body{
     width:370.35px;
     height: 53px;
     background-color: transparent;
+    color:white;
     border:1px solid #737373;
     border-radius:3px ;
    
@@ -179,7 +180,7 @@ body{
  right:-534px;
  top:29px;
  padding-left: 30px;
- width: 579px;
+ width: 540px;
  height: 434.25px;
 }
 .div5{
@@ -356,6 +357,8 @@ body{
     background-color: transparent;
     border:1px solid #737373;
     border-radius:3px ;
+    color:white;
+
 }
 #getstarted1
 {
